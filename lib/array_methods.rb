@@ -8,8 +8,8 @@ def find_max_value(array)
     if max_value == 0 || array[index] > max_value
       max_value = array[index]
     end 
- return max_value
-  }
+ }
+return max_value
 end
 
 def find_min_value(array)
